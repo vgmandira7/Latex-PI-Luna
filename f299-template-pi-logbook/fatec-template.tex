@@ -1,0 +1,109 @@
+%% CLASSE DE DOCUMENTO PADRÃO
+\documentclass[
+    landscape, % Mantém o documento em modo paisagem
+    a4paper,
+    12pt,
+    brazilian,
+]{article}
+
+%% PACOTES ESSENCIAIS
+\usepackage[]{fatec-article} 
+\usepackage{array} 
+\usepackage{tabularx} 
+\usepackage{float} 
+\usepackage{graphicx} 
+
+%% CONFIGURAÇÃO DE LARGURAS
+\setlength{\tabcolsep}{3pt} 
+
+% Definição das larguras de coluna fixas (Datas Corrigidas)
+\newlength{\colAtividadeF}
+\setlength{\colAtividadeF}{4.2cm} 
+\newlength{\colDataF}
+\setlength{\colDataF}{3.2cm} 
+\newlength{\colResponsavelF}
+\setlength{\colResponsavelF}{5.4cm} 
+
+% NOVOS TIPOS DE COLUNA: M para centralização vertical (cabeçalho e datas)
+\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}} 
+\newcolumntype{N}[1]{>{\raggedright\arraybackslash}m{#1}}
+
+%% Início do documento
+\begin{document}
+
+
+\vspace*{-1.5\baselineskip} % <-- ESPAÇO NEGATIVO AUMENTADO PARA PUXAR O CONTEÚDO PARA CIMA
+
+% --- TABELA 1 (COM CABEÇALHO) ---
+\begin{center} 
+\renewcommand{\arraystretch}{1.2} % <-- ARRAYSTRETCH REDUZIDO PARA 1.2
+
+\begin{tabularx}{\textwidth}{|N{\colAtividadeF}|M{\colDataF}|M{\colDataF}|N{\colResponsavelF}|>{\raggedright\arraybackslash}X|}
+\hline
+\renewcommand{\arraystretch}{1.7} % Altura do cabeçalho levemente reduzida
+\textbf{Nome da Atividade} & \textbf{Data de início} & \textbf{Data de término} & \textbf{Responsável pela atividade} & \textbf{Descrição da atividade realizada} \\ \hline
+\renewcommand{\arraystretch}{1.2} % Volta ao espaço reduzido
+Planejamento do Projeto & 18/02/2025 & 18/02/2025 & Todos os membros do grupo & Escolha do tema do projeto e início das pesquisas sobre o TDAH.\\ \hline
+Definição dos Papeís dos Integrantes & 18/02/2025 & 25/02/2025 & Todos os membros do grupo & Definição dos papéis principais: Miguel e Vinícius (codificação) Geovanna (design) Ana Flávia e Vitor (artigo científico).\\ \hline
+Desenvolvimento Web e Mobile & 25/02/2025 & 04/03/2025 & Miguel, Geovanna e Vinícius&Criação do design no Figma e divisão das responsabilidades de codificação.\\ \hline
+Início da Codificação Web& 04/03/2025 & 10/03/2025 & Miguel e Vinícius & Desenvolvimento do software mobile usando HTML e CSS.\\ \hline
+Escolha da Logo e nome do Projeto & 10/03/2025 & 17/03/2025 &Todos os membros do grupo & Definição do nome do projeto e a criação da logo.\\ \hline
+Pesquisa e Desenvolvimento do Artigo Científico & 17/03/2025 & 24/03/2025 & Ana Flávia e Vitor & Desenvolvimento da introdução do artigo científico com base em pesquisas.\\ \hline
+Estado da Arte do Artigo Científico& 17/03/2025 & 24/03/2025 & Ana Flávia e Vitor & Pesquisas de projetos semelhantes elaboração do Estado da Arte.\\ \hline
+Desenvolvimento do Objetivo do Artigo& 17/03/2025 & 24/03/2025 & Ana Flávia & Aplicação da ideia do Projeto dentro do Artigo.\\ \hline
+\end{tabularx}
+\end{center} 
+
+% --- TABELA 2 (SEM CABEÇALHO) ---
+\begin{center} 
+\renewcommand{\arraystretch}{1.2} % <-- ARRAYSTRETCH REDUZIDO PARA 1.2
+
+\begin{tabularx}{\textwidth}{|N{\colAtividadeF}|M{\colDataF}|M{\colDataF}|N{\colResponsavelF}|>{\raggedright\arraybackslash}X|}
+\hline
+Entrega e revisão dos parágrafos do Artigo & 31/03/2025 & 08/04/2025 & Ana Flávia e Vitor & Realização da correção do Artigo Científico.\\ \hline
+Continuação do Desenvolvimento do Design& 31/03/2025 & 08/04/2025 & Geovanna& Ajuste do Design, incluindo a logo e a paleta de cores no Figma.\\ \hline
+Inicialização da Modelagem de Banco de Dados & 08/04/2025 & 15/04/2025 & Vitor & Inicialização do desenvolvimento do banco de dados.\\ \hline
+Aplicação das telas do Mobile & 08/04/2025 & 15/04/2025 & Geovanna & Desenvolvimento das telas no mobile(Protótipo).\\ \hline
+Início do Desenvolvimento do Pitch & 15/04/2025 & 22/04/2025 & Vinícius & Aplicação da IA Generativa para o desenvolvimento do Pitch.\\ \hline
+Desenvolvimento da Landing Page& 15/04/2025 & 22/04/2025 & Miguel & Criação da Landing Page com HTML, CSS e JavaScript.\\ \hline
+Aplicação da Responsividade no Web & 22/04/2025 & 29/04/2025 & Miguel & Aplicamos a responsividade para cada modificação de tela.\\ \hline
+Desenvolvimento do Diagrama de Casos de Uso & 22/04/2025 & 29/04/2025 & Vitor & Elaboração e revisão do Diagrama de Casos de Uso para formalizar as funcionalidades do sistema.\\ \hline
+Desenvolvimento da Infraestrutura de Rede & 22/04/2025 & 29/04/2025 & Geovanna & Aplicação e Desenvolvimento da rede a partir do nosso Projeto.\\ \hline
+\end{tabularx}
+\end{center} 
+
+% --- TABELA 3 (SEM CABEÇALHO - CONTINUAÇÃO) ---
+\begin{center} 
+\renewcommand{\arraystretch}{1.2} % <-- ARRAYSTRETCH REDUZIDO PARA 1.2
+
+\begin{tabularx}{\textwidth}{|N{\colAtividadeF}|M{\colDataF}|M{\colDataF}|N{\colResponsavelF}|>{\raggedright\arraybackslash}X|}
+\hline
+Finalização do Pitch & 29/04/2025 & 06/05/2025 & Vinícius & Finalização e correção do Pitch.\\ \hline
+Desenvolvimento e Revisão do PI para apresentação do dia 12/05/2025 & 29/04/2025 & 06/05/2025 & Vinícius & Desenvolvimento de Slides, junção do Pitch, Figma e Web para apresentação no dia 12/05/2025.\\ \hline
+Volta as Aulas, deixamos para estudar profundamente o nosso projeto & 06/08/2025 & 13/08/2025 & Todos os membros do grupo & Estudamos cada parte do projeto para ter uma base forte nesse semestre.\\ \hline
+Estudo do JavaScript & 13/08/2025 & 20/08/2025 & Miguel, Ana Flávia e Geovanna & Estudamos o JavaScript e o Nodejs.\\ \hline
+Iniciamos o estudo sobre o banco de dados & 20/08/2025 & 27/08/2025 & Vitor, Vinícius e Geovanna & Estudos do Diagrama de Classe, Objeto e Sql.\\ \hline
+Finalizamos os estudos& 27/08/2025 & 03/09/2025 & Todos os membros do grupo & Finalização do estudo geral do PI.\\ \hline
+Inicio do desenvolvimento do artigo no Latex & 03/09/2025 & 10/09/2025 & Vitor & Aplicando no Latex no Artigo Científico.\\ \hline
+Correção do Artigo Científico& 10/09/2025 & 17/09/2025 & Vitor &Aplicando a correção do Artigo Científico .\\ \hline
+Inicialização da Aplicação do back-end Projeto& 17/09/2025 & 24/09/2025 & Geovanna, Miguel e Ana Flávia & Aplicação do banco de dados sql, Nodejs e criação de telas novas.\\ \hline
+\end{tabularx}
+\end{center} 
+
+% --- TABELA 4 (SEM CABEÇALHO - CONTINUAÇÃO) ---
+\begin{center} 
+\renewcommand{\arraystretch}{1.2} % <-- ARRAYSTRETCH REDUZIDO PARA 1.2
+
+\begin{tabularx}{\textwidth}{|N{\colAtividadeF}|M{\colDataF}|M{\colDataF}|N{\colResponsavelF}|>{\raggedright\arraybackslash}X|}
+\hline
+Correção dos Diagramas de Classe e Objeto & 24/09/2025 & 01/10/2025 & Todos os membros do grupo & Aplicando a correção do Diagrama de Classe e Objeto.\\ \hline
+Modificação e Desenvolvimento do Pitch & 01/10/2025 & 08/10/2025 & Vinícius & Aplicando um novo design e telas novas.\\ \hline
+Continuação e Aplicação do Diário de Bordo no Latex& 08/10/2025 & 15/10/2025 & Vinícius& Atualizando o Diario de Bordo e aplicando o Latex.\\ \hline
+Correção do Diagrama de Objeto e do Artigo & 15/10/2025 & 22/10/2025 & Todos os membros do grupo & Aplicando a correção do diagrama e do artigo\\ \hline
+Desenvolvimento e Aplicação do Banner no Latex&15/10/2025&22/10/2025&Vitor&Aplicação e Desenvolvimento do Banner em Latex\\ \hline
+Fechamento do Front-end e Back-end&15/10/2025&22/10/2025&Geovanna, Miguel e Ana Flávia& Aplicação e junção do banco de dados no projeto com telas funcionais, home, cadastro de aluno e professor.\\ \hline
+
+\end{tabularx}
+\end{center} 
+
+\end{document}
