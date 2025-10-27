@@ -1,0 +1,17 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'fatec-template.blg'
+[109] biber-MSWIN64:342> INFO - === 
+[144] Biber.pm:421> INFO - Reading 'fatec-template.bcf'
+[268] Biber.pm:1002> INFO - Found 13 citekeys in bib section 0
+[283] Biber.pm:4487> INFO - Processing section 0
+[294] Biber.pm:4678> INFO - Looking for bibtex file 'fatec-article.bib' for section 0
+[349] bibtex.pm:1713> INFO - LaTeX decoding ...
+[377] bibtex.pm:1519> INFO - Found BibTeX data source 'fatec-article.bib'
+[484] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[484] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[484] Biber.pm:4307> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'pt-BR'
+[484] Biber.pm:4313> INFO - No sort tailoring available for locale 'pt-BR'
+[505] bbl.pm:676> INFO - Writing 'fatec-template.bbl' with encoding 'UTF-8'
+[513] bbl.pm:779> INFO - Output to fatec-template.bbl
+[513] Biber.pm:132> WARN - legacy year field 's.d.' in entry 'SM2025' is not an integer - this will probably not sort properly.
+[514] Biber.pm:134> INFO - WARNINGS: 1

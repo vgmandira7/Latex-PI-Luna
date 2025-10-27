@@ -1,0 +1,556 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{Bernardes2022}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=008ae4d7dd407a44627df9efbeddf657}{%
+           family={Bernardes},
+           familyi={B\bibinitperiod},
+           given={Jonas},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{008ae4d7dd407a44627df9efbeddf657}
+      \strng{fullhash}{008ae4d7dd407a44627df9efbeddf657}
+      \strng{fullhashraw}{008ae4d7dd407a44627df9efbeddf657}
+      \strng{bibnamehash}{008ae4d7dd407a44627df9efbeddf657}
+      \strng{authorbibnamehash}{008ae4d7dd407a44627df9efbeddf657}
+      \strng{authornamehash}{008ae4d7dd407a44627df9efbeddf657}
+      \strng{authorfullhash}{008ae4d7dd407a44627df9efbeddf657}
+      \strng{authorfullhashraw}{008ae4d7dd407a44627df9efbeddf657}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://drjonasbernardes.com.br/tdah-hiperfoco/}}
+      \field{note}{Acesso em: 30 mar. 2025}
+      \field{title}{TDAH e o Hiperfoco: Compreendendo e Gerenciando}
+      \field{year}{2022}
+    \endentry
+    \entry{SM2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d43e642ae2e85acfa172092796f6e114}{%
+           family={Educação},
+           familyi={E\bibinitperiod},
+           given={SM},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {São Paulo}%
+      }
+      \strng{namehash}{d43e642ae2e85acfa172092796f6e114}
+      \strng{fullhash}{d43e642ae2e85acfa172092796f6e114}
+      \strng{fullhashraw}{d43e642ae2e85acfa172092796f6e114}
+      \strng{bibnamehash}{d43e642ae2e85acfa172092796f6e114}
+      \strng{authorbibnamehash}{d43e642ae2e85acfa172092796f6e114}
+      \strng{authornamehash}{d43e642ae2e85acfa172092796f6e114}
+      \strng{authorfullhash}{d43e642ae2e85acfa172092796f6e114}
+      \strng{authorfullhashraw}{d43e642ae2e85acfa172092796f6e114}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 14 set. 2025}
+      \field{title}{5 estratégias pedagógicas para ensinar alunos com TDAH}
+      \field{year}{s.d.}
+      \verb{urlraw}
+      \verb https://www.smeducacao.com.br/alunos-com-tdah/
+      \endverb
+      \verb{url}
+      \verb https://www.smeducacao.com.br/alunos-com-tdah/
+      \endverb
+    \endentry
+    \entry{Einstein2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d3614ed83cc7ca1cc8b369a7c3db028d}{%
+           family={Einstein},
+           familyi={E\bibinitperiod},
+           given={Hospital\bibnamedelimb Israelita\bibnamedelima Albert},
+           giveni={H\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {São Paulo}%
+      }
+      \strng{namehash}{d3614ed83cc7ca1cc8b369a7c3db028d}
+      \strng{fullhash}{d3614ed83cc7ca1cc8b369a7c3db028d}
+      \strng{fullhashraw}{d3614ed83cc7ca1cc8b369a7c3db028d}
+      \strng{bibnamehash}{d3614ed83cc7ca1cc8b369a7c3db028d}
+      \strng{authorbibnamehash}{d3614ed83cc7ca1cc8b369a7c3db028d}
+      \strng{authornamehash}{d3614ed83cc7ca1cc8b369a7c3db028d}
+      \strng{authorfullhash}{d3614ed83cc7ca1cc8b369a7c3db028d}
+      \strng{authorfullhashraw}{d3614ed83cc7ca1cc8b369a7c3db028d}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://vidasaudavel.einstein.br/tdah-conheca-18-sinais-que-indicam-deficit-de-atencao-com-hiperatividade/}}
+      \field{note}{Acesso em: 15 mar. 2025}
+      \field{title}{TDAH: conheça os 18 sinais que indicam déficit de atenção com hiperatividade}
+      \field{year}{2024}
+    \endentry
+    \entry{Cellera2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1663ae3a1f11c291fa1a6f53d7820c89}{%
+           family={Farma},
+           familyi={F\bibinitperiod},
+           given={Cellera},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1663ae3a1f11c291fa1a6f53d7820c89}
+      \strng{fullhash}{1663ae3a1f11c291fa1a6f53d7820c89}
+      \strng{fullhashraw}{1663ae3a1f11c291fa1a6f53d7820c89}
+      \strng{bibnamehash}{1663ae3a1f11c291fa1a6f53d7820c89}
+      \strng{authorbibnamehash}{1663ae3a1f11c291fa1a6f53d7820c89}
+      \strng{authornamehash}{1663ae3a1f11c291fa1a6f53d7820c89}
+      \strng{authorfullhash}{1663ae3a1f11c291fa1a6f53d7820c89}
+      \strng{authorfullhashraw}{1663ae3a1f11c291fa1a6f53d7820c89}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://cellerafarma.com.br/minha-saude/hiperfoco-no-tdah-concentracao/}}
+      \field{note}{Acesso em: 14 set. 2025}
+      \field{title}{Hiperfoco no TDAH: dicas para usar a concentração a seu favor}
+      \field{year}{2025}
+    \endentry
+    \entry{Kusumasari2018}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=24a3b060dfaf68892bc25c047f3372d4}{%
+           family={Kusumasari},
+           familyi={K\bibinitperiod},
+           given={Dian},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c13ce9cd0968884cd98213c0c5af42f}{%
+           family={Junaedi},
+           familyi={J\bibinitperiod},
+           given={Danang},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04886ebb675148b66e37f4cc9e982fb8}{%
+           family={Kaburuan},
+           familyi={K\bibinitperiod},
+           given={Emil\bibnamedelima Robert},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d5de95e66c65cb80c4017b4df601216c}
+      \strng{fullhash}{d5de95e66c65cb80c4017b4df601216c}
+      \strng{fullhashraw}{d5de95e66c65cb80c4017b4df601216c}
+      \strng{bibnamehash}{d5de95e66c65cb80c4017b4df601216c}
+      \strng{authorbibnamehash}{d5de95e66c65cb80c4017b4df601216c}
+      \strng{authornamehash}{d5de95e66c65cb80c4017b4df601216c}
+      \strng{authorfullhash}{d5de95e66c65cb80c4017b4df601216c}
+      \strng{authorfullhashraw}{d5de95e66c65cb80c4017b4df601216c}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{MATEC Web of Conferences}
+      \field{note}{Acesso em: 19 mar. 2025}
+      \field{title}{Designing an interactive learning application for ADHD children}
+      \field{volume}{197}
+      \field{year}{2018}
+      \field{pages}{16008}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.matec-conferences.org/articles/matecconf/pdf/2018/56/matecconf_aasec2018_16008.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.matec-conferences.org/articles/matecconf/pdf/2018/56/matecconf_aasec2018_16008.pdf
+      \endverb
+    \endentry
+    \entry{Lauriano2024}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=54905cbdf834f281143cd0e8e4d19a10}{%
+           family={Lauriano},
+           familyi={L\bibinitperiod},
+           given={Aline\bibnamedelima Coelho},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dcfc2cbbaa23d9d72636ed0f42952774}{%
+           family={Sousa\bibnamedelima Junior},
+           familyi={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Adeldivo\bibnamedelimb Alves\bibnamedelima de},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63606eb53121b57ebd10740ac7707c95}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Amanda\bibnamedelimb Nogueira\bibnamedelimb de\bibnamedelimb Castro\bibnamedelima e},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim e\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf9c159f7b5b22259e33c5311170d4a8}{%
+           family={Muniz},
+           familyi={M\bibinitperiod},
+           given={Frederico\bibnamedelima Barbosa},
+           giveni={F\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=26518a1746e136d180f90ce6979e18bf}{%
+           family={Almeida},
+           familyi={A\bibinitperiod},
+           given={Thissiany\bibnamedelima Beatriz},
+           giveni={T\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8ffcd3ad96ca24f581277684bde728a2}
+      \strng{fullhash}{bbcf47dcbc73abc744ee11cb4ffbe3a9}
+      \strng{fullhashraw}{bbcf47dcbc73abc744ee11cb4ffbe3a9}
+      \strng{bibnamehash}{8ffcd3ad96ca24f581277684bde728a2}
+      \strng{authorbibnamehash}{8ffcd3ad96ca24f581277684bde728a2}
+      \strng{authornamehash}{8ffcd3ad96ca24f581277684bde728a2}
+      \strng{authorfullhash}{bbcf47dcbc73abc744ee11cb4ffbe3a9}
+      \strng{authorfullhashraw}{bbcf47dcbc73abc744ee11cb4ffbe3a9}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Tecnológica da Fatec de Americana}
+      \field{note}{Professores orientadores: Frederico Barbosa Muniz e Thissiany Beatriz Almeida}
+      \field{number}{02}
+      \field{title}{SOFIA: software orientado por inteligência artificial para auxílio ao pré-diagnóstico do TEA infantil}
+      \field{volume}{11}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.fatec.edu.br/revista/index.php/RTecFatecAM/article/view/388/274
+      \endverb
+      \verb{url}
+      \verb https://www.fatec.edu.br/revista/index.php/RTecFatecAM/article/view/388/274
+      \endverb
+    \endentry
+    \entry{Moller2024}{misc}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=1d578d69d5da2613a2864f6429e96c2a}{%
+           family={Möller},
+           familyi={M\bibinitperiod},
+           given={Moritz},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2cfb5fd36dfa0c500492242f1880a1f6}{%
+           family={Nirmal},
+           familyi={N\bibinitperiod},
+           given={Gargi},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa4cdb90477da827ae1d9379e4be6edf}{%
+           family={Fabietti},
+           familyi={F\bibinitperiod},
+           given={Dario},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b41a7d3eb890d62d64f8045ced21719}{%
+           family={Stierstorfer},
+           familyi={S\bibinitperiod},
+           given={Quintus},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17be6023b1436fef8d385a77befcd27c}{%
+           family={Zakhvatkin},
+           familyi={Z\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5592620c482c1006c82ddee1149f18b7}{%
+           family={Sommerfeld},
+           familyi={S\bibinitperiod},
+           given={Holger},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea5c3db123239e316502fbfea11715b7}{%
+           family={Schütt},
+           familyi={S\bibinitperiod},
+           given={Sven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Ithaca}%
+      }
+      \list{publisher}{1}{%
+        {arXiv preprint, Cornell University}%
+      }
+      \strng{namehash}{b7225b39f0a94bec3777a9649802843e}
+      \strng{fullhash}{24508c55780701c35f7d6f41eec2b1fc}
+      \strng{fullhashraw}{24508c55780701c35f7d6f41eec2b1fc}
+      \strng{bibnamehash}{b7225b39f0a94bec3777a9649802843e}
+      \strng{authorbibnamehash}{b7225b39f0a94bec3777a9649802843e}
+      \strng{authornamehash}{b7225b39f0a94bec3777a9649802843e}
+      \strng{authorfullhash}{24508c55780701c35f7d6f41eec2b1fc}
+      \strng{authorfullhashraw}{24508c55780701c35f7d6f41eec2b1fc}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://arxiv.org/abs/2403.14642}}
+      \field{note}{Acesso em: 31 mar. 2025}
+      \field{title}{Revolutionising distance learning: a comparative study of learning progress with AI-driven tutoring}
+      \field{year}{2024}
+    \endentry
+    \entry{PequenoPrincipe2023}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fd0cd8130ef274e05300d0fde202f4cb}{%
+           family={Príncipe},
+           familyi={P\bibinitperiod},
+           given={Hospital\bibnamedelima Pequeno},
+           giveni={H\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Curitiba}%
+      }
+      \strng{namehash}{fd0cd8130ef274e05300d0fde202f4cb}
+      \strng{fullhash}{fd0cd8130ef274e05300d0fde202f4cb}
+      \strng{fullhashraw}{fd0cd8130ef274e05300d0fde202f4cb}
+      \strng{bibnamehash}{fd0cd8130ef274e05300d0fde202f4cb}
+      \strng{authorbibnamehash}{fd0cd8130ef274e05300d0fde202f4cb}
+      \strng{authornamehash}{fd0cd8130ef274e05300d0fde202f4cb}
+      \strng{authorfullhash}{fd0cd8130ef274e05300d0fde202f4cb}
+      \strng{authorfullhashraw}{fd0cd8130ef274e05300d0fde202f4cb}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://pequenoprincipe.org.br/noticia/tdah-o-que-e-e-sintomas-criancas-e-adolescentes/}}
+      \field{note}{Acesso em: 30 mar. 2025}
+      \field{title}{TDAH: o que é e quais são os sintomas em crianças e adolescentes?}
+      \field{year}{2023}
+    \endentry
+    \entry{Santos2020}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4250f6e1ba4e031efd91e8cb797bccac}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Joseleide\bibnamedelimb Epifânio\bibnamedelima dos},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c328adb902706ac5049473e4317c802}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={Patrícia\bibnamedelimb Pontual\bibnamedelima de},
+           giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d087e35d0b02ce4b15aaf0a3c031466}{%
+           family={Coutinho},
+           familyi={C\bibinitperiod},
+           given={Diogenes\bibnamedelimb José\bibnamedelima Gusmão},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Portugal}%
+      }
+      \strng{namehash}{517b6f09d1584ec6e7b2bcf0a4134a78}
+      \strng{fullhash}{517b6f09d1584ec6e7b2bcf0a4134a78}
+      \strng{fullhashraw}{517b6f09d1584ec6e7b2bcf0a4134a78}
+      \strng{bibnamehash}{517b6f09d1584ec6e7b2bcf0a4134a78}
+      \strng{authorbibnamehash}{517b6f09d1584ec6e7b2bcf0a4134a78}
+      \strng{authornamehash}{517b6f09d1584ec6e7b2bcf0a4134a78}
+      \strng{authorfullhash}{517b6f09d1584ec6e7b2bcf0a4134a78}
+      \strng{authorfullhashraw}{517b6f09d1584ec6e7b2bcf0a4134a78}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Europub Journal of Multidisciplinary Research}
+      \field{note}{Acesso em: 19 mar. 2025}
+      \field{number}{1}
+      \field{title}{O aplicativo Peak como ferramenta no ensino aprendizagem de estudantes com TDAH}
+      \field{volume}{1}
+      \field{year}{2020}
+      \field{pages}{2\bibrangedash 13}
+      \range{pages}{12}
+      \verb{urlraw}
+      \verb https://ojs.europubpublications.com/ojs/index.php/ejmr/article/download/31/93/108
+      \endverb
+      \verb{url}
+      \verb https://ojs.europubpublications.com/ojs/index.php/ejmr/article/download/31/93/108
+      \endverb
+    \endentry
+    \entry{Santos2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b1675d61597b8811d71d25269fef80ec}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Thais\bibnamedelimb Vieira\bibnamedelimb Gois\bibnamedelima dos},
+           giveni={T\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b1675d61597b8811d71d25269fef80ec}
+      \strng{fullhash}{b1675d61597b8811d71d25269fef80ec}
+      \strng{fullhashraw}{b1675d61597b8811d71d25269fef80ec}
+      \strng{bibnamehash}{b1675d61597b8811d71d25269fef80ec}
+      \strng{authorbibnamehash}{b1675d61597b8811d71d25269fef80ec}
+      \strng{authornamehash}{b1675d61597b8811d71d25269fef80ec}
+      \strng{authorfullhash}{b1675d61597b8811d71d25269fef80ec}
+      \strng{authorfullhashraw}{b1675d61597b8811d71d25269fef80ec}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cairu em Revista}
+      \field{note}{Acesso em: 5 abr. 2025}
+      \field{number}{23}
+      \field{title}{TDAH nas escolas: desafios pedagógicos e estratégias para a inclusão}
+      \field{volume}{12}
+      \field{year}{2023}
+      \field{pages}{06\bibrangedash 20}
+      \range{pages}{15}
+      \verb{urlraw}
+      \verb https://www.cairu.br/revista/arquivos/artigos/20241/01_TDAH_ESCOLAS_%20DESAFIOS_PEDAGOGICOS.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.cairu.br/revista/arquivos/artigos/20241/01_TDAH_ESCOLAS_%20DESAFIOS_PEDAGOGICOS.pdf
+      \endverb
+    \endentry
+    \entry{Brasil2022}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a3b23e9494cd1b763922ca0a20707105}{%
+           family={Saúde},
+           familyi={S\bibinitperiod},
+           given={Brasil.\bibnamedelimi Ministério},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0,
+           prefix={da},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \list{location}{1}{%
+        {Brasília}%
+      }
+      \strng{namehash}{a3b23e9494cd1b763922ca0a20707105}
+      \strng{fullhash}{a3b23e9494cd1b763922ca0a20707105}
+      \strng{fullhashraw}{a3b23e9494cd1b763922ca0a20707105}
+      \strng{bibnamehash}{a3b23e9494cd1b763922ca0a20707105}
+      \strng{authorbibnamehash}{a3b23e9494cd1b763922ca0a20707105}
+      \strng{authornamehash}{a3b23e9494cd1b763922ca0a20707105}
+      \strng{authorfullhash}{a3b23e9494cd1b763922ca0a20707105}
+      \strng{authorfullhashraw}{a3b23e9494cd1b763922ca0a20707105}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 29 mar. 2025}
+      \field{title}{Entre 5\% e 8\% da população mundial apresenta Transtorno de Déficit de Atenção com Hiperatividade}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/entre-5-e-8-da-populacao-mundial-apresenta-transtorno-de-deficit-de-atencao-com-hiperatividade
+      \endverb
+      \verb{url}
+      \verb https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/entre-5-e-8-da-populacao-mundial-apresenta-transtorno-de-deficit-de-atencao-com-hiperatividade
+      \endverb
+    \endentry
+    \entry{Senado2023}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5763908996bb73c72409dc1e5ab4588f}{%
+           family={Senado},
+           familyi={S\bibinitperiod},
+           given={Agência},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Brasília}%
+      }
+      \strng{namehash}{5763908996bb73c72409dc1e5ab4588f}
+      \strng{fullhash}{5763908996bb73c72409dc1e5ab4588f}
+      \strng{fullhashraw}{5763908996bb73c72409dc1e5ab4588f}
+      \strng{bibnamehash}{5763908996bb73c72409dc1e5ab4588f}
+      \strng{authorbibnamehash}{5763908996bb73c72409dc1e5ab4588f}
+      \strng{authornamehash}{5763908996bb73c72409dc1e5ab4588f}
+      \strng{authorfullhash}{5763908996bb73c72409dc1e5ab4588f}
+      \strng{authorfullhashraw}{5763908996bb73c72409dc1e5ab4588f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www12.senado.leg.br/noticias/materias/2023/11/27/especialistas-alertam-para-epidemia-de-diagnosticos-de-tdah-entre-criancas}}
+      \field{note}{Acesso em: 29 mar. 2025}
+      \field{title}{Especialistas alertam para 'epidemia de diagnósticos' de TDAH entre crianças}
+      \field{year}{2023}
+    \endentry
+    \entry{Zolin2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a5913c8abf633613c23d347a487e43f3}{%
+           family={Zolin},
+           familyi={Z\bibinitperiod},
+           given={Beatriz},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {São Paulo}%
+      }
+      \list{publisher}{1}{%
+        {Portal Drauzio Varella}%
+      }
+      \strng{namehash}{a5913c8abf633613c23d347a487e43f3}
+      \strng{fullhash}{a5913c8abf633613c23d347a487e43f3}
+      \strng{fullhashraw}{a5913c8abf633613c23d347a487e43f3}
+      \strng{bibnamehash}{a5913c8abf633613c23d347a487e43f3}
+      \strng{authorbibnamehash}{a5913c8abf633613c23d347a487e43f3}
+      \strng{authornamehash}{a5913c8abf633613c23d347a487e43f3}
+      \strng{authorfullhash}{a5913c8abf633613c23d347a487e43f3}
+      \strng{authorfullhashraw}{a5913c8abf633613c23d347a487e43f3}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://drauziovarella.uol.com.br/pediatria/tdah-e-tod-o-que-fazer-quando-os-transtornos-aparecem-juntos/}}
+      \field{note}{Acesso em: 22 mar. 2025}
+      \field{title}{TDAH e TOD: O que fazer quando aparecem juntos?}
+      \field{year}{2024}
+    \endentry
+  \enddatalist
+  \missing{Beltrano2021}
+  \missing{boulic:91}
+  \missing{knuth:84}
+\endrefsection
+\endinput
+
