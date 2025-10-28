@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 
 
-Bem-vindo ao repositório oficial da documentação do nosso **Projeto Integrador**.  
+Bem vindo ao repositório oficial da documentação do nosso **Projeto Integrador**.  
 Aqui estão organizados todos os arquivos em **LaTeX** que compõem a estrutura acadêmica do projeto — incluindo **artigo científico**, **artefatos** e **diário de bordo**.
 
 
