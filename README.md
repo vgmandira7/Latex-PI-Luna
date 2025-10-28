@@ -8,7 +8,7 @@ Bem vindo ao repositório oficial da documentação do nosso **Projeto Integrado
 Aqui estão organizados todos os arquivos em **LaTeX** que compõem a estrutura acadêmica do projeto — incluindo **artigo científico**, **artefatos** e **diário de bordo**.
 
 
-> 📚 **Tema:** Personalização Lúdica de Planos de Aulas Para Crianças com TDAH, com Ênfase no Hiperfoco.     
+> 📚 **Tema:** Personalização Lúdica de Planos de Aulas Para Crianças com TDAH, com Ênfase no Hiperfoco.      
 
 
 ---
